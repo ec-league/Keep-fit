@@ -4,29 +4,13 @@ You can use the [editor on GitHub](https://github.com/ec-league/Keep-fit/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Rule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Keep time count in minute
+2. Minus 20 min while not doing the exercises per day
+3. Minus 20 min while not drinking enough water per day(according to  application)
+4. Who get the higher score is the winner, and the person who lost the game should attribute ￥200 to the account.
+5. If both of the participants keep time are below 90 min one week, they should attribute ￥200 to the account per person.
 
 ### Jekyll Themes
 
